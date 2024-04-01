@@ -1,7 +1,7 @@
 ## Introduction 
 Hello My name is DongWook Kim
 
-## Carrer
+## Career
 YeungNam Universitity computer engineering 
 
 ## Links
