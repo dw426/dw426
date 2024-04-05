@@ -1,10 +1,18 @@
 ## Introduction 
-Hello My name is DongWook Kim
+Name: DongWook Kim
+
+Age : 24
 
 ## Career
-YeungNam Universitity computer engineering 
+School: YeungNam University
+
+Major: Computer Science Engineering
 
 ## Links
 - E-mail: dw_426@naver.com
 - Instagram: https://www.instagram.com/d.w_4.26?igsh=Zm1nYnViNXczdWFj&utm_source=qr
 - blog: https://blog.naver.com/dw_426
+
+## Tech Stack
+
+<img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=Python&logoColor=white"> <img src="https://img.shields.io/badge/c++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white"><img src="https://img.shields.io/badge/github-181717?style=for-the-badge&logo=github&logoColor=white"><img src="https://img.shields.io/badge/C-A8B9CC?style=for-the-badge&logo=C&logoColor=white"> 
