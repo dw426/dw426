@@ -40,6 +40,6 @@
 <div align="center">
   <a href="mailto:dw_426@naver.com">
     <img
-      src="https://img.shields.io/badge/dw_426.com-D14836?style=for-the-badge&logo=naver&logoColor=green"/>&nbsp
+      src="https://img.shields.io/badge/dw_426@naver.com-D14836?style=for-the-badge&logo=naver&logoColor=green"/>&nbsp
   </a>
 </div>
