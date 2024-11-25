@@ -40,4 +40,8 @@
     <img
       src="https://img.shields.io/badge/dw_426@naver.com-D14836?style=for-the-badge&logo=naver&logoColor=green"/>&nbsp
   </a>
+  <a href="https://www.instagram.com/d.w_4.26/">
+    <img
+      src="https://img.shields.io/badge/instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/>&nbsp
+  </a>
 </div>
