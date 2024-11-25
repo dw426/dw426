@@ -10,7 +10,7 @@ Major: Computer Science Engineering
 
 ## Links
 - E-mail: dw_426@naver.com
-- <div style="text-align: left;"> <a href=https://www.instagram.com/d.w_4.26/> <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=Instagram&logoColor=white&link=https://www.instagram.com/d.w_4.26/"> </a>
+- <div style="text-align: left;"> <a href=https://www.instagram.com/d.w_4.26/> <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=Instagram&logoColor=white&link=https://www.instagram.com/d.w_4.26/">
 
 - blog: https://blog.naver.com/dw_426
 - Instagram: https://www.instagram.com/d.w_4.26?igsh=Zm1nYnViNXczdWFj&utm_source=qr
