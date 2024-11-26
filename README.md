@@ -3,8 +3,8 @@
 <h3 align="center">✨ Tech Stack ✨</h3>
 
 <div align="center">
-  <img src="https://img.shields.io/badge/C-3670A0?style=for-the-badge&logo=C&logoColor=ffdd54" />&nbsp
-  <img src="https://img.shields.io/badge/C++-150458.svg?style=for-the-badge&logo=C++&logoColor=white" />&nbsp
+  <img src="https://img.shields.io/badge/c-A8B9CC.svg?style=for-the-badge&logo=c&logoColor=black" />&nbsp
+  <img src="https://img.shields.io/badge/C++-00599C.svg?style=for-the-badge&logo=cplusplus&logoColor=black" />&nbsp
   <img src="https://img.shields.io/badge/Java-4d77cf.svg?style=for-the-badge&logo=Java&logoColor=white" />&nbsp
   <img src="https://img.shields.io/badge/Python-11557c.svg?style=for-the-badge&logo=Python&logoColor=white" />&nbsp
 </div>
@@ -27,6 +27,7 @@
   <img src="https://img.shields.io/badge/Notion-F3F3F3.svg?style=for-the-badge&logo=notion&logoColor=black" />&nbsp
 
 <div align="center">
+  <img src="https://img.shields.io/badge/linux-FCC624.svg?style=for-the-badge&logo=linux&logoColor=black" />&nbsp
   <img src="https://img.shields.io/badge/VSCode-2C2C32.svg?style=for-the-badge&logo=visual-studio-code&logoColor=22ABF3" />&nbsp
   <img src="https://img.shields.io/badge/jupyter-2C2C32.svg?style=for-the-badge&logo=jupyter&logoColor=F37726" />&nbsp
 <!--   <img src="https://img.shields.io/badge/Colab-2C2C32.svg?style=for-the-badge&logo=googlecolab&logoColor=F9AB00" />&nbsp -->
