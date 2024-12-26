@@ -48,3 +48,4 @@
       src="https://img.shields.io/badge/instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/>&nbsp
   </a>
 </div>
+[![Solved.ac프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=brian0214)](https://solved.ac/brian0214)
